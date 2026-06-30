@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4i0048/WYG/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 先文僖公所著金石例十巻制度文辭必稽諸古所以模範後學者也每見手澤不忍釋去與其私于一家孰若公于天下傳之子孫孰若法之人人使咸知先公之心去浮靡以還淳古顧不韙與謹刻之梓嘉與士大夫共之至正五年春三月望濟南潘詡敬書于巻末此書元刻于濟南文僖之子刋定重刻于鄱陽王思明校正三刻于龍宗武摹泰和楊寅弼抄本此從鄱陽本錄出故有思明叙
+  hash: sha256:6c8c79a9e7c8dd9a8214d6499acf884ba913d079c66ca6298e7652b4a1f2b665
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4i0048_WYG_011-1a, image: WYG1482/WYG1482-0369c.png}
+metadata:
+  title: 金石例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:46:00.132649'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR4i0048/KR4i0048_011.txt
+hash: sha256:61774333aadd5138c735be41fb3e3124c8aea704608a9ca2075fa168fd5ce3be
